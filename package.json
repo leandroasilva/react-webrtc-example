@@ -1,0 +1,14 @@
+{
+  "name": "react-webrtc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leandroasilva/react-webrtc-example.git",
+  "author": "halk_lenson@hotmail.com <leandroasilva>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.11",
+    "socket.io": "^4.1.2"
+  }
+}
