@@ -1,6 +1,5 @@
-import React, {useContext} from 'react';
-import {Typography, Grid, Paper } from '@material-ui/core';
-import {makeStyles} from '@material-ui/core/styles';
+import React, { useContext } from 'react';
+import { Grid, Typography, Paper, makeStyles } from '@material-ui/core';
 
 import { SocketContext } from '../Context';
 
@@ -48,6 +47,6 @@ const VideoPlayer = () => {
       )}
     </Grid>
   );
-}
+};
 
 export default VideoPlayer;
